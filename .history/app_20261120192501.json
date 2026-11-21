@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "NoidaDrive Driver",
+    "slug": "noida-drive-driver",
+    "android": {
+      "package": "com.prashantkr81.noidadrivedriver"
+    }
+  }
+}

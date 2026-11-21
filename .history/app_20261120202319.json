@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "plugins": [
+      "expo-router",
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "NoidaDrive needs your location to share your live position with customers during active trips."
+        }
+      ]
+    ],
+    "name": "NoidaDrive Driver",
+    "slug": "noida-drive-driver",
+    "android": {
+      "package": "com.prashantkr81.noidadrivedriver"
+    }
+  }
+}
